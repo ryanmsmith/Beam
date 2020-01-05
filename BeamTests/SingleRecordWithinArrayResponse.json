@@ -1,0 +1,13 @@
+[
+    {
+        "id": 43,
+        "primary_insured_id": null,
+        "name": "Remy LeBeau",
+        "effective_date": "2018-01-01",
+        "terminated_at": null,
+        "shipping_address": "616 Thieves' Guild St.",
+        "shipping_city": "Columbus",
+        "shipping_state": "OH",
+        "shipping_zip_code": "43215"
+    }
+]
